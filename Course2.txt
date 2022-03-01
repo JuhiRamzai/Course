@@ -11,4 +11,4 @@ Understanding the prolem and implementing a solution which is space and time eff
 
 Juhi Ramzai
 Algorithm Analysis
-Analyzing different algorithms and understanding the importance of each of them. Distinctions between different alorithms is important to understand for their successful and useful implementation. 
+Analyzing different algorithms and understanding the importance of each of them 
